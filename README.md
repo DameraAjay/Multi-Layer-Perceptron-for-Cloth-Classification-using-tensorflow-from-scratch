@@ -32,6 +32,16 @@ download data from https://github.com/zalandoresearch/fashion-mnist and keep it 
     python main.py --train
     python test.py --test
 # output
+    ********************************************
+            MLP Training
+    ********************************************
+    [+] Train data shape :  (54000, 784)
+    [+] Train labels shape : (54000, 10)
+    [+] Validation data shape :  (6000, 784)
+    [+] Validation labels shape :  (6000, 10)
+    Train_Loss: 0.453  | Train_Accuracy: 0.912  | Validation_Loss: 0.511  | Validation_Accuracy:0.857
+
+
     ****************************************
     [+] Test data shape   :  (10000, 784)
     [+] Test labels shape :  (10000, 10)
