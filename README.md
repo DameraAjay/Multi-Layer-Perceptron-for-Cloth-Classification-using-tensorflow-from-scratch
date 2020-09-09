@@ -7,7 +7,7 @@ Developed a MLP for MNIST Cloth Classification using tensorflow from scratch
     scikit-learn
 # MNIST fashion dataset
     here is a snapshot of MNIST fashion dataset
-    download data from https://github.com/zalandoresearch/fashion-mnist and keep it in data folder
+download data from https://github.com/zalandoresearch/fashion-mnist and keep it in data folder
 ![](img/fashion-mnist-sprite.png)
 
 
