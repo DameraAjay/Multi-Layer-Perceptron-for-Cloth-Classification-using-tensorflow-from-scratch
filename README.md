@@ -37,3 +37,13 @@ download data from https://github.com/zalandoresearch/fashion-mnist and keep it 
     [+] Test labels shape :  (10000, 10)
     [+] MLP Test Accuracy : 0.857
     ****************************************
+# Trainable parameters
+    w1 = 100352 [784 * 128] (input - hidden1)
+    w2 = 16384  [128 * 128] (hidden1 – hidden2)
+    w3 = 16384  [128 * 128] (hidden2 - hidden3)
+    w4 = 1280   [128 * 10]  (hidden3 - output)
+    b1 = 128    [128]       (hidden1)
+    b2 = 128    [128]       (hidden2)
+    b3 = 128    [128]       (hidden3)
+    b4 = 10     [128]       (output)
+    Total Trainable Parameters : 134874
