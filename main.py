@@ -1,12 +1,7 @@
 '''
-			Assignment-No : 10
-			Damera Ajay
-			19CS60R63
-			07-04-2020
-
-			Tensorflow 
-			numpy 
-			sklearn 
+		Author : Damera Ajay
+		Date   : 07-04-2020
+ 
 '''
 
 
