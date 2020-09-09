@@ -28,3 +28,12 @@ download data from https://github.com/zalandoresearch/fashion-mnist and keep it 
  Softmax is applied at output layer with 10 classes [0-9]
  Catagorical cross entropy loss fuction is used.
 
+# Training and Testing
+    python main.py --train
+    python test.py --test
+# output
+    ****************************************
+    [+] Test data shape   :  (10000, 784)
+    [+] Test labels shape :  (10000, 10)
+    [+] MLP Test Accuracy : 0.857
+    ****************************************
